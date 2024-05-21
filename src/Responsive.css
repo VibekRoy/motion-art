@@ -1,0 +1,239 @@
+
+
+@media (max-width:1024px) {
+
+    /*Navbar*/
+    .purchase-button{
+        display: none;
+    }
+    
+    /*Content Section*/
+
+    .Content-left{
+        width: 34%;
+    }
+    .Content-right-1{
+        font-size: 40px;
+    }
+    .Content-right{
+        width: 66%;
+    }
+
+    /*Ratings*/
+    .Ratings{
+        column-gap: 23vw;
+        row-gap: 6vw;
+        justify-content: center;
+
+    }    
+
+    
+
+
+    /*Application*/
+    .app-header{
+        font-size: 28px;
+    }
+
+    /*Supported Browsers*/
+    .browsers{
+        margin-top: 50px;
+    }
+    .browsers-content{
+        font-size: 18px;
+        width: 50%;
+    }
+    .browsers-heading{
+        font-size: 26px;
+    }
+    .browsers img{
+        width: fit-content;
+    }
+
+    /*Features*/
+    .features-heading{
+        width: 100%;
+        font-size: 25px;
+    }
+    .features-content-0{
+        width: 100%;
+        font-size: 16px;
+    }
+    .list{
+        row-gap: 20px;
+    }
+    .first-div,.second-div{
+        width: 45vw;
+    }
+
+    .last-div{
+        width: 98% ;
+    }
+
+    /*Footer*/
+    .footer{
+        flex-direction: column-reverse;
+        align-items: center;
+        row-gap: 25px;
+        text-align: center;
+    }
+
+}
+
+
+@media (max-width:768px) {
+
+    /*Content Section*/
+    
+    #Content{
+        flex-direction: column;
+        align-items: center;
+        padding: 10vw 2vw 0 2vw;
+
+    }
+    
+    .Content-left{
+        width: 100%;
+        padding: 0 0 4vw;
+        align-items: center;
+    }
+    .Content-left-1,.Content-left-2{
+        width: 25%;
+    }
+    .Content-right{
+        width: 100%;
+    }
+    .Content-right-1{
+        font-size: 35px;
+    }
+    .Content-right-1 span{
+        display: inline;
+    }
+    .Content-right-2{
+        width: 100%;
+        font-size: 16px;
+        line-height: 1.7rem;
+    }
+
+    /*Ratings*/
+    .Ratings{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    /*Wand Section*/
+    .wand{
+        flex-direction: column;
+    }
+    .wand-left{
+        width: 100%;
+    }
+    .wand-head{
+        font-size: 25px;
+    }
+    .wand-content{
+        font-size: 16px;
+    }
+    .wand-button-parent{
+        margin: 4vw auto 0;
+    }
+    .wand-right{
+        margin-top: 3vw;
+        width: 100%;
+        justify-content: center;
+    }
+
+    /*Application*/
+    .app-header{
+        width: 64%;
+    }
+    .apply-sections{
+        flex-direction: column;
+    }
+    .applyonsection{
+        width: 100%;
+    }
+    .applyonpage{
+        width: 100%;
+        margin-top: 0;
+    }
+
+    /*Supported Browsers*/
+    .browsers{
+        padding: 50px 50px 30px;
+    }
+    .browsers-content{
+        width: 100%;
+    }
+    .browsers img{
+        width: 90%;
+    }
+
+    /*Features*/
+    .first-div,.second-div,.last-div{
+        width: 100%;
+        
+    }
+}
+
+@media (max-width:480px) {
+
+    /*Content Section*/
+    #Content{
+        padding-top: 20vw;
+
+    }
+    #nav img{
+        padding-top: 4vw;
+        width: 45vw;
+    }
+    
+    .Content-left{
+        align-items: center;
+        line-height: 1.9rem;
+    }
+    .Content-left-1,.Content-left-2{
+        width: 45%;
+        text-align: center;
+    }
+    .Content-right-1{
+        font-size: 35px;
+        text-align: center;
+        padding-bottom: 5vw;
+    }
+    .Content-right-1 span{
+        display: block;
+    }
+    .Content-right-2{
+        text-align: center;
+    }
+
+    /*Wand Section*/
+    .wand-left{
+        text-align: center;
+    }
+    .wand-button-parent{
+        width: fit-content;
+    }
+
+    /*Application*/
+    .apply-sections{
+        text-align: center;
+    }
+
+    /*Browsers*/
+    .browsers{
+        text-align: center;
+    }
+    .browsers-heading{
+        font-size: 20px;
+        line-height: 40px;
+    }
+}
+
+@media (max-width:288px) {
+    /*Ratings*/
+    .Rating-Box{
+        flex-direction: column;
+    }
+}
