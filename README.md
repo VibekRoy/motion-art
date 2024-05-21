@@ -1,8 +1,6 @@
-# React + Vite
+# Heliverse Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Link: https://heliverse-assignment-beta.vercel.app/
+This project was completed by Vibek Roy and was assigned by Heliverse.
+The project is based on ReactJs along with WebGL implementation.
+The project is fully responsive.
