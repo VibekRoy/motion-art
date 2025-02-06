@@ -17,7 +17,7 @@ You can checkout the project here : https://motion-art-c4.vercel.app/
 ## Screenshots 🌟
 
 ### Home Page
-![Home Page](./Motion.png)
+![Home Page](https://drive.google.com/file/d/1BdxwaGrwu8o4FHl3WZuj_dkB11cHXYL5/view?usp=sharing)
 
 ## Tech Stack 🛠️
 
