@@ -17,7 +17,7 @@ You can checkout the project here : https://motion-art-c4.vercel.app/
 ## Screenshots 🌟
 
 ### Home Page
-![Home Page](https://drive.google.com/file/d/1BdxwaGrwu8o4FHl3WZuj_dkB11cHXYL5/view?usp=sharing)
+![Home Page](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3g0czZ2Ym9ob2RpcmgzYThjaXRrNXMwa29rcnJkbWdjOHVlcnQ0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aVk5kA2iVLD22DwO19/giphy.gif)
 
 ## Tech Stack 🛠️
 
